@@ -20,8 +20,11 @@
 ## 🚀 Projects
 
 • **[RAG (Retrieval-Augmented Generation) Project](#)** — Implemented a question-answering pipeline combining information retrieval (FAISS/sentence-transformers) with a large language model to query documents accurately.
+
 • **[DadaSafe](#)** — Built a gamified cyber-safety platform for young Kenyan women using FastAPI, React, and PostgreSQL, incorporating AI-driven scenario generation, JWT authentication, and Argon2 password hashing.
+
 • **[Customer Support Chatbot](#)** — Developed a Python-based chatbot that intelligently classifies user questions (Billing, Technical Support, General) and provides context-aware responses.
+
 • **[Elite Event Planner](#)** — Developed a full-stack event booking application featuring robust role-based access control, an administrative dashboard, and complex relational database design.
 
 ---
