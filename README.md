@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sumaya Abdi
+# Hi there , I'm Sumaya Abdi
 
 ### Full-Stack Software Engineer & AI Practitioner passionate about building secure, data-driven applications
 - **Currently pursuing:** Diploma in Information Technology at Akirachix
@@ -45,4 +45,4 @@
 
 ---
 
-⭐ *"Turning data and code into secure, impactful solutions one repository at a time."*
+⭐ *"Turning data and code into secure, impactful solutions."*
