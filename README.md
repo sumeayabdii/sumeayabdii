@@ -41,7 +41,7 @@
 
 • **LinkedIn:** [://linkedin.com](#) *
 • **Email:** sumayafairuz@gmail.com
-• **GitHub:** [://github.com](#) *(Replace with your link)*
+• **GitHub:** [://github.com](#) *
 
 ---
 
