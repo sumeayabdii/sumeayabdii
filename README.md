@@ -39,7 +39,7 @@
 
 ## 🤝 Let's Connect!
 
-• **LinkedIn:** [://linkedin.com](#) *(Replace with your link)*
+• **LinkedIn:** [://linkedin.com](#) *
 • **Email:** sumayafairuz@gmail.com
 • **GitHub:** [://github.com](#) *(Replace with your link)*
 
